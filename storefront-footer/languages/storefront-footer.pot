@@ -2,36 +2,37 @@
 # This file is distributed under the GPLv3.
 msgid ""
 msgstr ""
-"Project-Id-Version: Change Storefront Footer Copyright Text 2.3.5\n"
+"Project-Id-Version: Change Storefront Footer Copyright Text 2.3.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/storefront-footer\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-03-11T18:51:05+00:00\n"
+"POT-Creation-Date: 2026-04-10T10:36:34+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: storefront-footer\n"
 
 #. Plugin Name of the plugin
-#: storefront-footer.php
+#: storefront-footer.php:5
 msgid "Change Storefront Footer Copyright Text"
 msgstr ""
 
 #. Plugin URI of the plugin
 #. Author URI of the plugin
-#: storefront-footer.php
+#: storefront-footer.php:6
+#: storefront-footer.php:11
 msgid "https://quadlayers.com"
 msgstr ""
 
 #. Description of the plugin
-#: storefront-footer.php
+#: storefront-footer.php:7
 msgid "Allows you to change the official Woocommerce Storefront theme footer copyright credit text."
 msgstr ""
 
 #. Author of the plugin
-#: storefront-footer.php
+#: storefront-footer.php:10
 #: lib/class-plugin.php:73
 msgid "QuadLayers"
 msgstr ""
